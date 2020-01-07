@@ -1,0 +1,11 @@
+C:\Kool\V semester - Prog III\homework\Project_1\bin\Debug\netcoreapp3.1\Project_1.exe
+C:\Kool\V semester - Prog III\homework\Project_1\bin\Debug\netcoreapp3.1\Project_1.deps.json
+C:\Kool\V semester - Prog III\homework\Project_1\bin\Debug\netcoreapp3.1\Project_1.runtimeconfig.json
+C:\Kool\V semester - Prog III\homework\Project_1\bin\Debug\netcoreapp3.1\Project_1.runtimeconfig.dev.json
+C:\Kool\V semester - Prog III\homework\Project_1\bin\Debug\netcoreapp3.1\Project_1.dll
+C:\Kool\V semester - Prog III\homework\Project_1\bin\Debug\netcoreapp3.1\Project_1.pdb
+C:\Kool\V semester - Prog III\homework\Project_1\obj\Debug\netcoreapp3.1\Project_1.csprojAssemblyReference.cache
+C:\Kool\V semester - Prog III\homework\Project_1\obj\Debug\netcoreapp3.1\Project_1.AssemblyInfoInputs.cache
+C:\Kool\V semester - Prog III\homework\Project_1\obj\Debug\netcoreapp3.1\Project_1.AssemblyInfo.cs
+C:\Kool\V semester - Prog III\homework\Project_1\obj\Debug\netcoreapp3.1\Project_1.dll
+C:\Kool\V semester - Prog III\homework\Project_1\obj\Debug\netcoreapp3.1\Project_1.pdb
